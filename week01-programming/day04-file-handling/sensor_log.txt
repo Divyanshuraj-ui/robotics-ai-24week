@@ -1,0 +1,6 @@
+Temperature: 25
+Humidity: 60
+Distance: 120
+Pressure: 45
+GAS: 70
+
