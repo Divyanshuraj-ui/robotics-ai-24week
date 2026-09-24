@@ -1,0 +1,6 @@
+sensor,value,status
+temperature,25,low
+humidity,60,high
+Distance,120,high
+pressure,45,normal
+light,80,high

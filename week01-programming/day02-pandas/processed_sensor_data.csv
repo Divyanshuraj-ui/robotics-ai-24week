@@ -1,0 +1,7 @@
+sensor,value,status
+temperature,28.0,low
+humidity,65.0,normal
+distance,110.0,high
+pressure,42.0,normal
+light,85.0,high
+gas,66.0,normal
